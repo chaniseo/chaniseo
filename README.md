@@ -64,6 +64,8 @@ Undergraduate, Systems Management Engineering, Sungkyunkwan University
   배터리의 State of Health 예측을 위한 Health Indicator 추출 및 예측 모델 간 성능 비교
 - `2025 동계` **수요 불확실성을 반영한 재고관리 최적화**  
   불확실성을 반영한 재고관리 최적화 문제 정식화 및 해법 탐색
+- `2025 동계` **수요 불확실성을 반영한 재고관리 최적화** — [📂 repo](저장소_주소)  
+ 
 
 ### 대외 프로그램
 - **LG Aimers** 8기 수료 (LLM Compression) · 9기 참여 중

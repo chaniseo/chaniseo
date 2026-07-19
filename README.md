@@ -1,16 +1,26 @@
-## Hi there 👋
+# 서찬희 (Seo Chan Hee)
 
-<!--
-**chaniseo/chaniseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+성균관대학교 시스템경영공학과 학부생 (Systems Management Engineering, Sungkyunkwan University)
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Time Series Anomaly Detection** — 시계열 데이터의 이상 탐지
+- **Concept Drift Detection & Adaptation** — 데이터 분포 변화 탐지 및 모델 재학습
+- **Time Series Foundation Models** — 시계열 표현 학습 및 일반화
+
+## Experience
+
+- **2026.03 – 현재** | 학부연구생, AI & Healthcare Lab, SKKU — 로봇 산업 시계열 파운데이션 모델 구축
+- **2025.07 – 2025.12** | 학부연구생, Technometrics Lab, SKKU — 공정 데이터 Concept Drift 탐지 및 재학습
+
+## Awards
+
+- **금상**, KAIST·UNIST·POSTECH 공동 주최 데이터과학 경진대회 (2026.01)
+
+## Skills
+
+`Python` `PyTorch` `scikit-learn` `pandas` `MATLAB` `GNU Octave`
+
+## Contact
+
+- Email: [이메일 입력]

@@ -42,6 +42,7 @@ Undergraduate, Systems Management Engineering, Sungkyunkwan University
 - 실제 공정 데이터에 탐지 알고리즘을 적용·변형하여 부여된 과제 해결, 주간 랩미팅을 통한 결과 공유
 - 팀 내 오프라인 회의 및 조별 실습을 **주도적으로 이끎**
 - 결과보고서: 금융 거래 데이터의 Concept Drift 유형(Virtual/Real/Mixed) 분석, Detection·Adaptation 기법 비교 실험
+- - 📂 [concept-drift-detection](github.com/chaniseo) — 실험 코드 및 결과 정리
 - 사용 도구: `Python` `Google Colab`
 
 ---

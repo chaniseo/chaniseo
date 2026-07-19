@@ -31,7 +31,8 @@ Undergraduate, Systems Management Engineering, Sungkyunkwan University
 ### AI & Healthcare Lab, SKKU — 학부연구생
 `2026.03 – 현재` · *로봇 산업 시계열 파운데이션 모델 구축 연구*
 
-- 로봇 산업 도메인의 시계열 파운데이션 모델 구축을 위한 데이터셋 수집 및 **수집 자동화 코드 작성**, 데이터 정제·정리 수행
+- 로봇 산업 도메인의 시계열 파운데이션 모델 구축을 위한 데이터셋 수집 및 **수집 자동화 코드 작성**
+- 수집 데이터셋의 개요·센서·피처·description 등을 체계적으로 정리한 300페이지 규모 문서 작성
 - 모델 아키텍처 분석 및 이해를 병행하며 연구 보조 수행
 - 후속 연구로 **VLA(Vision-Language-Action)** 관련 스터디 진행 중
 

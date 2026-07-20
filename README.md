@@ -30,7 +30,7 @@ Undergraduate, Systems Management Engineering, Sungkyunkwan University
 ### AI & Healthcare Lab, SKKU — 학부연구생
 `2026.03 – 현재` · *로봇 산업 시계열 파운데이션 모델 구축 연구*
 
-- 로봇 산업 도메인의 시계열 파운데이션 모델 구축을 위한 데이터셋 수집 및 **수집 자동화 코드 작성**
+- 로봇 산업 도메인의 시계열 파운데이션 모델 구축을 위한 데이터셋 수집 및 수집 자동화 코드 작성
 - 수집 데이터셋의 개요·센서·피처·description 등을 체계적으로 정리한 300페이지 규모 문서 작성
 - - 📂 [robot-dataset-survey](https://github.com/chaniseo/robot-datasets-survey) — 공개 로봇 데이터셋 79종 모달리티 서베이
 - 모델 아키텍처 분석 및 이해를 병행하며 연구 보조 수행
@@ -41,7 +41,7 @@ Undergraduate, Systems Management Engineering, Sungkyunkwan University
 
 - Drift 탐지 알고리즘(**DDM, EDDM, FHDDM, ADWIN, MDDM** 등) 이론 학습 및 실습 수행, 주간 발표 진행
 - 실제 공정 데이터에 탐지 알고리즘을 적용·변형하여 부여된 과제 해결, 주간 랩미팅을 통한 결과 공유
-- 팀 내 오프라인 회의 및 조별 실습을 **주도적으로 이끎**
+- 팀 내 오프라인 회의 및 조별 실습을 주도적으로 이끎
 - 결과보고서: 금융 거래 데이터의 Concept Drift 유형(Virtual/Real/Mixed) 분석, Detection·Adaptation 기법 비교 실험
 - - 📂 [concept-drift-detection](https://github.com/chaniseo/concept-drift-detection) — 실험 코드 및 결과 정리
 - 사용 도구: `Python` `Google Colab`

@@ -3,7 +3,6 @@
 성균관대학교 시스템경영공학과 학부생  
 Undergraduate, Systems Management Engineering, Sungkyunkwan University
 
-데이터의 분포가 시간에 따라 변화하는 환경에서, 이상을 탐지하고 변화에 강건하게 대응하는 모델에 관심이 있습니다.
 
 ---
 
